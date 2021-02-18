@@ -1,0 +1,8 @@
+{
+   "name": "test_dashboard",
+   "buildpacks": [
+      {
+         "url": "heroku/python"
+      }
+   ]
+}
